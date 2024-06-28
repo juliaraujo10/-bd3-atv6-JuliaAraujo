@@ -1,0 +1,32 @@
+[
+  {
+    "_id": {
+      "$oid": "667f0dbf0809a35d8cbd259f"
+    },
+    "cod_turma": 101,
+    "nome": "João Silva",
+    "cpf": "123.456.789-00",
+    "rg": "MG-12.345.678",
+    "telefone_aluno": "31987654321",
+    "telefone_responsavel": "31987654322",
+    "email": "joao.silva@example.com",
+    "data_nascimento": {
+      "$date": "2000-01-01T00:00:00Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "667f0eab84143404ad9d2c77"
+    },
+    "cod_turma": 101,
+    "nome": "João Silva",
+    "cpf": "123.456.789-00",
+    "rg": "MG-12.345.678",
+    "telefone_aluno": "31987654321",
+    "telefone_responsavel": "31987654322",
+    "email": "joao.silva@example.com",
+    "data_nascimento": {
+      "$date": "2000-01-01T00:00:00Z"
+    }
+  }
+]
